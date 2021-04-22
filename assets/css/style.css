@@ -937,6 +937,10 @@ p {
   background: #f7f7f7;
 }
 
+#certificate {
+  background: #f7f7f7;
+}
+
 .main-content .container-main {
   display: inline-block;
   width: 100%;
