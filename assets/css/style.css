@@ -322,6 +322,11 @@ p {
   .navbar .dropdown .dropdown:hover > ul {
     left: -100%;
   }
+
+  .resvid {
+    width: 100%;
+    height: 100%;
+  }
 }
 
 /**
@@ -341,6 +346,11 @@ p {
 }
 
 @media (max-width: 991px) {
+  .resvid {
+    width: 100%;
+    height: 100%;
+  }
+
   .mobile-nav-toggle {
     display: block;
   }
@@ -482,6 +492,11 @@ p {
 }
 
 @media (max-width: 992px) {
+  .resvid {
+    width: 100%;
+    height: 100%;
+  }
+
   .breadcrumbs {
     padding-top: 100px;
   }
@@ -520,6 +535,11 @@ p {
 }
 
 @media (max-width: 768px) {
+  .resvid {
+    width: 100%;
+    height: 100%;
+  }
+
   .breadcrumbs .d-flex {
     display: block !important;
   }
@@ -1118,6 +1138,11 @@ blockquote {
  */
 @media (min-width: 768px) and (max-width: 991px) {
   /* Navbar */
+  .resvid {
+    width: 100%;
+    height: 100%;
+  }
+
   nav {
     padding: 10px 15px;
   }
@@ -1192,6 +1217,11 @@ blockquote {
  */
 @media (max-width: 767px) {
   /* Navbar */
+  .resvid {
+    width: 100%;
+    height: 100%;
+  }
+
   nav {
     padding: 20px 15px;
   }
@@ -1262,6 +1292,11 @@ blockquote {
  */
 @media (max-width: 600px) {
   /* Navbar */
+  .resvid {
+    width: 100%;
+    height: 100%;
+  }
+
   nav {
     padding: 20px 15px;
   }
@@ -1333,6 +1368,11 @@ blockquote {
  */
 @media (max-width: 480px) {
   /* Navbar */
+  .resvid {
+    width: 100%;
+    height: 100%;
+  }
+
   nav {
     padding: 20px 15px;
   }
@@ -1402,6 +1442,11 @@ blockquote {
  */
 @media (max-width: 320px) {
   /* Navbar */
+  .resvid {
+    width: 100%;
+    height: 100%;
+  }
+  
   nav {
     padding: 20px 15px;
   }
